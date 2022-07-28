@@ -18,5 +18,5 @@ Run this command where you Download the image<br/>
     exiftool WindowsXP.jpg
 ![exiftool](images/2-exiftools.png)<br/>
 
-Now copy `OWoodflint` this text and Search on [Google](https://www.google.com)<br/>
+Now copy `OWoodflint` this text and Search on [Google](https://www.google.com). Let's visit first link which is twitter.<br/>
 ![Search Result](images/3-result.png)<br/>
