@@ -16,6 +16,7 @@ You need `Exiftool` tool. Exiftool installation command<br/>
 Run this command where you Download the image<br/>
 
     exiftool WindowsXP.jpg
-![exiftool](images/1-exiftools.png)<br/>
+![exiftool](images/2-exiftools.png)<br/>
 
 Now copy `OWoodflint` this text and Search on [Google](https://www.google.com)<br/>
+![Search Result](images/3-result.png)<br/>
