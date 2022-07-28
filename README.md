@@ -21,7 +21,7 @@ Run this command where you Download the image<br/>
 Now copy `OWoodflint` this text and Search on [Google](https://www.google.com). Let's visit first link which is twitter.<br/>
 ![Search Result](images/3-result.png)<br/>
 
-We've found exact username and the users avatar of a cat.
+We've found exact username and the users avatar of a `cat`.
 ![cat](images/4-avatar.png)<br/>
 
 #### A: `cat`
