@@ -22,6 +22,15 @@ Now copy `OWoodflint` this text and Search on [Google](https://www.google.com). 
 ![Search Result](images/3-result.png)<br/>
 
 We've found exact username and the users avatar of a `cat`.
-![cat](images/4-avatar.png)
+![cat](images/4-avatar.png)<br/>
 
 #### A: `cat`
+
+### Q: What city is this person in?
+Let's open third link of search result which is Github.<br/>
+![github-result](images/5-result-github.png)<br/>
+
+As you can see the same person of github account and his location is `London`.
+![github](images/6-location-github.png)<br/>
+
+#### A: `London`
