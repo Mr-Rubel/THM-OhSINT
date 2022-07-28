@@ -55,3 +55,20 @@ Go to this `Github account` and search the gmail id.<br/>
 
 ## Q: What site did you find his email address on?
 #### A: `Github`
+
+## Q: Where has he gone on holiday?
+Go to this link<br/>
+![blog](images/11-blog-link.png)<br/>
+
+As you can see He is in New York now.<br/>
+![new york](images/12-new-york.png)<br/>
+
+#### A: `New York`
+
+## Q: What is this persons password?
+When I drag by mouse it's highlighted and found the password.<br/>
+![pwd](images/13-pwd-found.png)<br/>
+
+#### A: `pennYDr0pper.!`
+
+<h3 align="center">Congratulations, Finished the room.</h3>
