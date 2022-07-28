@@ -8,3 +8,10 @@ TryHackMe [Room link](https://tryhackme.com/room/ohsint)<br/>
 ### Q: What is this users avatar of?
 Download this file by clicking that button<br/>
 ![download](images/1.png)<br/>
+
+You need `Exiftool` tool. Exiftool installation command
+    sudo apt install exiftool -y
+
+Run this command where you Download the image
+    exiftool WindowsXP.jpg
+![exiftool](images/1-exiftool.png)<br/>
