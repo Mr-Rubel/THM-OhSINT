@@ -9,9 +9,9 @@ TryHackMe [Room link](https://tryhackme.com/room/ohsint)<br/>
 Download this file by clicking that button<br/>
 ![download](images/1.png)<br/>
 
-You need `Exiftool` tool. Exiftool installation command
+You need `Exiftool` tool. Exiftool installation command<br/>
     sudo apt install exiftool -y
 
-Run this command where you Download the image
+Run this command where you Download the image<br/>
     exiftool WindowsXP.jpg
 ![exiftool](images/1-exiftool.png)<br/>
