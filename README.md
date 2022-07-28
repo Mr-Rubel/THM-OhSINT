@@ -22,6 +22,6 @@ Now copy `OWoodflint` this text and Search on [Google](https://www.google.com). 
 ![Search Result](images/3-result.png)<br/>
 
 We've found exact username and the users avatar of a `cat`.
-![cat](images/4-avatar.png)<br/>
+![cat](images/4-avatar.png)
 
 #### A: `cat`
