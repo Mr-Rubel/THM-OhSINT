@@ -34,3 +34,15 @@ As you can see the same person of github account and his location is `London`.
 ![github](images/6-location-github.png)<br/>
 
 #### A: `London`
+
+### Q: Whats the SSID of the WAP he connected to?
+Again go to this twitter account and scroll down, copy the bssid `B4:5D:50:AA:86:41`
+![bssid](images/7-bssid-link.png)<br/>
+
+Search `wigle` on [Google](https://www.google.com) and visit the website.<br/>
+![wigle](images/8-searching-wigle.png)<br/>
+
+Past the BSSID click on `Filter` and find the location pointer and it's `UnileverWiFi`.<br/>
+![wigle](images/9-wigle-bssid.png)<br/>
+
+#### A: `UnileverWiFi`
